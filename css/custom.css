@@ -2,7 +2,7 @@
     text-align: center !important;
 }
 
-.navbar-collapse {
+.navbar-collapse, h4, h2 {
     text-align: center !important;
 }
 .img-fade{
@@ -14,7 +14,7 @@
     padding: 0;
 }
 .img-fade .img-text{
-    background-color: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.7);
     opacity: 0;
     position: absolute;
     width: 100%;
@@ -41,13 +41,25 @@
     margin-bottom: 10px;
 }
 
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1, h2, h4, h5 {
+    font-family: "Courier New";
+
+}
 
 body {
     background-color: white;
 }
 
 .homepage {
-    background-color: #FF0000;
+    background-color: #E0E0FF;
+}
+
+.header-container {
+    background-color: #C1C1FF;
 }
 
 h1 {
@@ -57,7 +69,7 @@ h1 {
 
 .navbar-collapse {
     padding-left: 0cm;
-    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-family: "Courier new";
 }
 
 .nav li {
@@ -127,7 +139,21 @@ background-image: "atheist";
 background-repeat: no-repeat;
 }
 
-.column1, .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9{
+.column10 {
+height: 30em;
+margin-bottom: 1em;
+background-image: "atheist";
+background-repeat: no-repeat;
+}
+
+.column11 {
+height: 30em;
+margin-bottom: 1em;
+background-image: "atheist";
+background-repeat: no-repeat;
+}
+
+.column1, .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .column10, .column11{
 width: 31.3%;
 float: left;
 margin: 1%;
