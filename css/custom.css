@@ -1,10 +1,9 @@
-
 .text-center {
-	text-align: center !important;
+    text-align: center !important;
 }
 
 .navbar-collapse {
-	text-align: center !important;
+    text-align: center !important;
 }
 .img-fade{
     position: relative;
@@ -39,7 +38,7 @@
     text-transform: uppercase;
     margin-bottom: 10px;
     font-family: 'Lato', Helvetica, Arial, sans-serif;
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 
@@ -48,23 +47,23 @@ body {
 }
 
 .homepage {
-	background-color: #65beb4;
+    background-color: #FF0000;
 }
 
 h1 {
-	padding-left: 2cm;
-	margin-right: 1cm;
+    padding-left: 2cm;
+    margin-right: 1cm;
 }
 
 .navbar-collapse {
-	padding-left: 0cm;
-	font-family: 'Lato', Helvetica, Arial, sans-serif;
+    padding-left: 0cm;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
 .nav li {
-	padding-left: 30px;
-	padding-right: 30px;
-	
+    padding-left: 30px;
+    padding-right: 30px;
+    
 }
 
 .column1 {
@@ -113,7 +112,7 @@ margin-bottom: 1em;
 background-image: "atheist";
 background-repeat: no-repeat;
 }
-		
+        
 .column8 {
 height: 30em;
 margin-bottom: 1em;
@@ -135,9 +134,9 @@ margin: 1%;
 }
 
 .modal-body {
-	padding-left: 50px;
+    padding-left: 50px;
 }
 
 .btn-default {
-	padding-left: 50px;
+    padding-left: 50px;
 }
